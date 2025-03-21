@@ -18,3 +18,4 @@ Application web Jakarta EE permettant la gestion complète d'une bibliothèque e
 - Architecture DAO pour l'accès aux données
 
 Ce projet a été développé dans le cadre d'un exercice académique avec un accent particulier sur les bonnes pratiques de développement, la gestion des erreurs et l'extensibilité.
+Pour tester veuillez utiliser : POSTMAN
